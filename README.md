@@ -1,0 +1,2 @@
+<div align="left"><img src="https://raw.githubusercontent.com/stephenwf/hyperion/master/atlas-logo.png" width="390" /></div>
+Atlas is a modular image viewer, based on the conceptual model set by the [IIIF Presentation Framework](https://iiif.io/api/presentation/3.0/). It can render deep zoom images on an HTML Canvas, or static thumbnail images in standard Image tags.

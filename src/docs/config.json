@@ -1,0 +1,10 @@
+{
+  "title": "Atlas Viewer",
+  "menuMap": {
+    "introduction": "Introduction",
+    "the-framework": "The framework",
+    "the-vault": "The Vault",
+    "atlas": "Atlas",
+    "react-vault": "React Vault"
+  }
+}
