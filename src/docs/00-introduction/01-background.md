@@ -26,7 +26,7 @@ There are some basic concepts to know about the viewer.
 ## Modularity
 The viewer is made up of many individual modules that can be composed together or used in a pre-build bundle, more like a traditional viewer. There are currently 4 types of module that be used or created, each with a single responsibility.
 
-### Data-source
+### Data source
 The first thing that a viewer needs to do is to query a data source and load in some images into the World. A data source may make HTTP queries to fetch IIIF content, or maybe take static images. However it loads the data, it will yield abstract items – world objects that haven't been placed in a world yet. These items can be passed to a builder. Data-sources also add an ordering to their items.
 
 - Hyperion data source
